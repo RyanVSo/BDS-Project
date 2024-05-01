@@ -1,1 +1,1 @@
-All vectorizers and models stored in Google Drive due to restraints.
+All vectorizers and models stored in Google Drive due to size restraints.
